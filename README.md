@@ -63,9 +63,13 @@ I focus on creating applications that are practical, maintainable, and enjoyable
 
 ## 🤝 Connect With Me
 
-I'm interested in **freelance opportunities, software projects, and developer collaborations**.
+I'm open to **freelance opportunities, exciting projects, and developer collaborations**. Let's connect and build something amazing!
 
 <div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-@tahajorablo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tahajorablo/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha_Jorablo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-jorablo-507850392/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tahawwaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahawwaa)
 
